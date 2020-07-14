@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hello World!  
 
-I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML, CSS and JavaScript (Vanilla) plus Git and Github.
+I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML, CSS and JavaScript (Vanilla) plus Git and Github. I live in Yola, Nigeria building useful things. I am passionate about modern web technologies and enjoy learning something new every day.
 
-Overthinker, Developer & upcoming Founder.
+* Overthinker 
+ * Developer &
+ * upcoming Founder.
 
 
 
 
-Below is the list of recent things I developed based on every Javascript topic I learned.
+Below is the list of recent things I developed:
 
 REST API [COVID19 UPDATE NIGERIA](https://covid19nigeria.tk)
