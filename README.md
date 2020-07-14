@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **shamxeed/shamxeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hello World!  
+
+I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML, CSS and JavaScript (Vanilla) plus Git and Github.
+
+Overthinker, Developer & upcoming Founder.
+
+
+
+
+Below is the list of recent things I developed based on every Javascript topic I learned.
+
+REST API [COVID19 UPDATE NIGERIA](https://covid19nigeria.tk)
