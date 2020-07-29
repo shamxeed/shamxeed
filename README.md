@@ -27,4 +27,6 @@ I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML
 
 Below is the list of recent things I developed:
 
-REST API [COVID19 UPDATE NIGERIA](https://covid19nigeria.tk)
+* REST API (fetch and ES6 methods, literals etc.) [Hello World](https://hellooworld.cf)
+
+* REST API (JSON & AJAX) [COVID19 UPDATE NIGERIA](https://covid19nigeria.tk)
