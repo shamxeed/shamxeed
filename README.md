@@ -27,7 +27,7 @@ I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML
 
 Below is the list of recent things I developed:
 
-* Quiz Game App (ReactJs) [Quiz Game](shamxeed.github.io/reactQuizApp)
+* Quiz Game App (ReactJs) [Quiz Game](https://shamxeed.github.io/reactQuizApp)
 
 * REST API (ES6 features...) [Hello World](https://hellooworld.cf)
 
