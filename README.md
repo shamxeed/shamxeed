@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML, CSS and JavaScript (Vanilla) plus Git and Github. I live in Yola, Nigeria building useful things. I am passionate about modern web technologies and enjoy learning something new every day.
 
-* Overthinker 
- * Developer &
- * upcoming Founder.
+* I Design,
+ * I Programme &
+ * I Develop.
 
 
 
