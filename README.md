@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hello World!  
 
-I'm DANJUMA Musa, young most passionate web technologist, I worked a lot on HTML, CSS and JavaScript (Vanilla) plus Git and Github.  
-I also work with React, Markdown & Nextjs. I live in Yola, Nigeria building useful things. I am passionate about modern web technologies  
+I'm DANJUMA Musa, Front-End Web Developer with experience on HTML, CSS and JavaScript (Vanilla), Git, Github,  
+Reactjs, Markdown & Nextjs. I live in Yola, Nigeria building useful things. I am passionate about modern web technologies  
 and enjoy learning something new every day.
 
 * I Design,
