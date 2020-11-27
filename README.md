@@ -14,14 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hello World!  
-
-I'm DANJUMA Musa, Front-End Web Developer with experience on HTML, CSS and JavaScript (Vanilla), Git, Github,  
-Reactjs, Markdown & Nextjs. I live in Yola, Nigeria building useful things. I am passionate about modern web technologies  
-and enjoy learning something new every day.
-
-* I Design,
- * I Programme &
- * I Develop.
-
+![shamxeed banner](https://github.com/rabeey/findlove/blob/master/Twitter%20Header.png)
 
