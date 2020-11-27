@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![shamxeed banner](https://github.com/rabeey/findlove/blob/master/Twitter%20Header.png)
+![shamxeed banner](https://github.com/rabeey/findlove/blob/master/banner-social.png)
 
